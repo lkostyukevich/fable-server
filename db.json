@@ -1,0 +1,273 @@
+{
+  "collection": [
+    {
+      "id": "0",
+      "name": "FABLE OF KLASSIK"
+    },
+    {
+      "id": "1",
+      "name": "FABLE OF SUPERSPORT"
+    },
+    {
+      "id": "2",
+      "name": "FABLE OF COLORS"
+    }
+  ],
+  "category": [
+    {
+      "id": "0",
+      "name": "Пиджаки"
+    },
+    {
+      "id": "1",
+      "name": "Брюки"
+    },
+    {
+      "id": "2",
+      "name": "Рубашки"
+    },
+    {
+      "id": "3",
+      "name": "Шорты"
+    },
+    {
+      "id": "4",
+      "name": "Олимпийки"
+    },
+    {
+      "id": "5",
+      "name": "Куртки"
+    },
+    {
+      "id": "6",
+      "name": "Джинсы"
+    }
+  ],
+  "product": [
+    {
+      "id": "0",
+      "title": "Пиджак KLS Бежевый",
+      "price": 10500,
+      "currency": "₽",
+      "image": "/collection/klassik/jackets/beige.svg",
+      "collection": "0",
+      "category": "0"
+    },
+    {
+      "id": "1",
+      "title": "Пиджак KLS Черный",
+      "price": 10500,
+      "currency": "₽",
+      "image": "/collection/klassik/jackets/black.svg",
+      "collection": "0",
+      "category": "0"
+    },
+    {
+      "id": "2",
+      "title": "Пиджак KLS Графит",
+      "price": 10500,
+      "currency": "₽",
+      "image": "/collection/klassik/jackets/gray.svg",
+      "collection": "0",
+      "category": "0"
+    },
+    {
+      "id": "3",
+      "title": "Брюки KLS Голубой",
+      "price": 6500,
+      "currency": "₽",
+      "image": "/collection/klassik/trousers/blue.svg",
+      "collection": "0",
+      "category": "1"
+    },
+    {
+      "id": "4",
+      "title": "Брюки KLS Коричневый",
+      "price": 6500,
+      "currency": "₽",
+      "image": "/collection/klassik/trousers/brown.svg",
+      "collection": "0",
+      "category": "1"
+    },
+    {
+      "id": "5",
+      "title": "Брюки KLS Черный",
+      "price": 6500,
+      "currency": "₽",
+      "image": "/collection/klassik/trousers/black.svg",
+      "collection": "0",
+      "category": "1"
+    },
+    {
+      "id": "6",
+      "title": "Рубашка KLS Белый",
+      "price": 7500,
+      "currency": "₽",
+      "image": "/collection/klassik/shirts/white.svg",
+      "collection": "0",
+      "category": "2"
+    },
+    {
+      "id": "7",
+      "title": "Шорты KLS Коричневый",
+      "price": 4500,
+      "currency": "₽",
+      "image": "/collection/klassik/shorts/brown.svg",
+      "collection": "0",
+      "category": "3"
+    },
+    {
+      "id": "8",
+      "title": "Шорты KLS Графит",
+      "price": 4500,
+      "currency": "₽",
+      "image": "/collection/klassik/shorts/gray.svg",
+      "collection": "0",
+      "category": "3"
+    },
+    {
+      "id": "9",
+      "title": "Шорты KLS Черный",
+      "price": 4500,
+      "currency": "₽",
+      "image": "/collection/klassik/shorts/black.svg",
+      "collection": "0",
+      "category": "3"
+    },
+    {
+      "id": "10",
+      "title": "Олимпийка SS Серый",
+      "price": 10000,
+      "currency": "₽",
+      "image": "/collection/supersport/jackets/gray.svg",
+      "collection": "1",
+      "category": "4"
+    },
+    {
+      "id": "11",
+      "title": "Олимпийка SS Голубой",
+      "price": 10000,
+      "currency": "₽",
+      "image": "/collection/supersport/jackets/blue.svg",
+      "collection": "1",
+      "category": "4"
+    },
+    {
+      "id": "12",
+      "title": "Олимпийка SS Черный",
+      "price": 10000,
+      "currency": "₽",
+      "image": "/collection/supersport/jackets/black.svg",
+      "collection": "1",
+      "category": "4"
+    },
+    {
+      "id": "13",
+      "title": "Брюки SS Серый",
+      "price": 8000,
+      "currency": "₽",
+      "image": "/collection/supersport/trousers/gray.svg",
+      "collection": "1",
+      "category": "1"
+    },
+    {
+      "id": "14",
+      "title": "Брюки SS Голубой",
+      "price": 8000,
+      "currency": "₽",
+      "image": "/collection/supersport/trousers/blue.svg",
+      "collection": "1",
+      "category": "1"
+    },
+    {
+      "id": "15",
+      "title": "Брюки SS Черный",
+      "price": 8000,
+      "currency": "₽",
+      "image": "/collection/supersport/trousers/black.svg",
+      "collection": "1",
+      "category": "1"
+    },
+    {
+      "id": "16",
+      "title": "Куртка CLR Черный",
+      "price": 12500,
+      "currency": "₽",
+      "image": "/collection/colors/jackets/black.svg",
+      "collection": "2",
+      "category": "5"
+    },
+    {
+      "id": "17",
+      "title": "Куртка CLR Голубой",
+      "price": 12500,
+      "currency": "₽",
+      "image": "/collection/colors/jackets/blue.svg",
+      "collection": "2",
+      "category": "5"
+    },
+    {
+      "id": "18",
+      "title": "Куртка CLR Рубин",
+      "price": 12500,
+      "currency": "₽",
+      "image": "/collection/colors/jackets/brown.svg",
+      "collection": "2",
+      "category": "5"
+    },
+    {
+      "id": "19",
+      "title": "Джинсы CLR Рубин",
+      "price": 8500,
+      "currency": "₽",
+      "image": "/collection/colors/jeans/brown.svg",
+      "collection": "2",
+      "category": "6"
+    },
+    {
+      "id": "20",
+      "title": "Джинсы CLR Черный",
+      "price": 8500,
+      "currency": "₽",
+      "image": "/collection/colors/jeans/black.svg",
+      "collection": "2",
+      "category": "6"
+    },
+    {
+      "id": "21",
+      "title": "Джинсы CLR Голубой",
+      "price": 8500,
+      "currency": "₽",
+      "image": "/collection/colors/jeans/blue.svg",
+      "collection": "2",
+      "category": "6"
+    },
+    {
+      "id": "22",
+      "title": "Шорты CLR Голубой",
+      "price": 5500,
+      "currency": "₽",
+      "image": "/collection/colors/shorts/blue.svg",
+      "collection": "2",
+      "category": "3"
+    },
+    {
+      "id": "23",
+      "title": "Шорты CLR Черный",
+      "price": 5500,
+      "currency": "₽",
+      "image": "/collection/colors/shorts/black.svg",
+      "collection": "2",
+      "category": "3"
+    },
+    {
+      "id": "24",
+      "title": "Шорты CLR Белый",
+      "price": 5500,
+      "currency": "₽",
+      "image": "/collection/colors/shorts/white.svg",
+      "collection": "2",
+      "category": "3"
+    }
+  ]
+}
