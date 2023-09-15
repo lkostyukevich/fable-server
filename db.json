@@ -51,7 +51,12 @@
       "currency": "₽",
       "image": "/collection/klassik/jackets/beige.svg",
       "collection": "0",
-      "category": "0"
+      "category": "0",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/products/1/Foto.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "1",
@@ -60,7 +65,12 @@
       "currency": "₽",
       "image": "/collection/klassik/jackets/black.svg",
       "collection": "0",
-      "category": "0"
+      "category": "0",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/klassik/jackets/black.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "2",
@@ -69,7 +79,12 @@
       "currency": "₽",
       "image": "/collection/klassik/jackets/gray.svg",
       "collection": "0",
-      "category": "0"
+      "category": "0",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/klassik/jackets/gray.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "3",
@@ -78,7 +93,12 @@
       "currency": "₽",
       "image": "/collection/klassik/trousers/blue.svg",
       "collection": "0",
-      "category": "1"
+      "category": "1",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/klassik/trousers/blue.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "4",
@@ -87,7 +107,12 @@
       "currency": "₽",
       "image": "/collection/klassik/trousers/brown.svg",
       "collection": "0",
-      "category": "1"
+      "category": "1",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/klassik/trousers/brown.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "5",
@@ -96,7 +121,12 @@
       "currency": "₽",
       "image": "/collection/klassik/trousers/black.svg",
       "collection": "0",
-      "category": "1"
+      "category": "1",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/klassik/trousers/black.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "6",
@@ -105,7 +135,12 @@
       "currency": "₽",
       "image": "/collection/klassik/shirts/white.svg",
       "collection": "0",
-      "category": "2"
+      "category": "2",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/klassik/shirts/white.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "7",
@@ -114,7 +149,12 @@
       "currency": "₽",
       "image": "/collection/klassik/shorts/brown.svg",
       "collection": "0",
-      "category": "3"
+      "category": "3",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/klassik/shorts/brown.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "8",
@@ -123,7 +163,12 @@
       "currency": "₽",
       "image": "/collection/klassik/shorts/gray.svg",
       "collection": "0",
-      "category": "3"
+      "category": "3",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/klassik/shorts/gray.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "9",
@@ -132,7 +177,12 @@
       "currency": "₽",
       "image": "/collection/klassik/shorts/black.svg",
       "collection": "0",
-      "category": "3"
+      "category": "3",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/klassik/shorts/black.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "10",
@@ -141,7 +191,12 @@
       "currency": "₽",
       "image": "/collection/supersport/jackets/gray.svg",
       "collection": "1",
-      "category": "4"
+      "category": "4",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/supersport/jackets/gray.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "11",
@@ -150,7 +205,12 @@
       "currency": "₽",
       "image": "/collection/supersport/jackets/blue.svg",
       "collection": "1",
-      "category": "4"
+      "category": "4",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/supersport/jackets/blue.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "12",
@@ -159,7 +219,12 @@
       "currency": "₽",
       "image": "/collection/supersport/jackets/black.svg",
       "collection": "1",
-      "category": "4"
+      "category": "4",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/supersport/jackets/black.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "13",
@@ -168,7 +233,12 @@
       "currency": "₽",
       "image": "/collection/supersport/trousers/gray.svg",
       "collection": "1",
-      "category": "1"
+      "category": "1",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/supersport/trousers/gray.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "14",
@@ -177,7 +247,12 @@
       "currency": "₽",
       "image": "/collection/supersport/trousers/blue.svg",
       "collection": "1",
-      "category": "1"
+      "category": "1",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/supersport/trousers/blue.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "15",
@@ -186,7 +261,12 @@
       "currency": "₽",
       "image": "/collection/supersport/trousers/black.svg",
       "collection": "1",
-      "category": "1"
+      "category": "1",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/supersport/trousers/black.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "16",
@@ -195,7 +275,12 @@
       "currency": "₽",
       "image": "/collection/colors/jackets/black.svg",
       "collection": "2",
-      "category": "5"
+      "category": "5",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/colors/jackets/black.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "17",
@@ -204,7 +289,12 @@
       "currency": "₽",
       "image": "/collection/colors/jackets/blue.svg",
       "collection": "2",
-      "category": "5"
+      "category": "5",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/colors/jackets/blue.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "18",
@@ -213,7 +303,12 @@
       "currency": "₽",
       "image": "/collection/colors/jackets/brown.svg",
       "collection": "2",
-      "category": "5"
+      "category": "5",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/colors/jackets/brown.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "19",
@@ -222,7 +317,12 @@
       "currency": "₽",
       "image": "/collection/colors/jeans/brown.svg",
       "collection": "2",
-      "category": "6"
+      "category": "6",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/colors/jeans/brown.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "20",
@@ -231,7 +331,12 @@
       "currency": "₽",
       "image": "/collection/colors/jeans/black.svg",
       "collection": "2",
-      "category": "6"
+      "category": "6",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/colors/jeans/black.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "21",
@@ -240,7 +345,12 @@
       "currency": "₽",
       "image": "/collection/colors/jeans/blue.svg",
       "collection": "2",
-      "category": "6"
+      "category": "6",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/colors/jeans/blue.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "22",
@@ -249,7 +359,12 @@
       "currency": "₽",
       "image": "/collection/colors/shorts/blue.svg",
       "collection": "2",
-      "category": "3"
+      "category": "3",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/colors/shorts/blue.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "23",
@@ -258,7 +373,12 @@
       "currency": "₽",
       "image": "/collection/colors/shorts/black.svg",
       "collection": "2",
-      "category": "3"
+      "category": "3",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/colors/shorts/black.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     },
     {
       "id": "24",
@@ -267,7 +387,12 @@
       "currency": "₽",
       "image": "/collection/colors/shorts/white.svg",
       "collection": "2",
-      "category": "3"
+      "category": "3",
+      "details": "Пиджак из свободного кроя делает изделие универсальным элементом верхнего слоя. Два накладных и один потайной карманы. Фирменная подкладка с паттерном FABLE. Подплечники средней жесткости для придания формы.",
+      "images": [
+        "/collection/colors/shorts/white.svg",
+        "/collection/products/1/Foto (1).svg"
+      ]
     }
   ]
 }
